@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "BluuNext-Bold";
+  src: url("/events/css/BluuNext-Bold.otf");
+}
+
+body {
+  font-family: "BluuNext-Bold", serif;
+  overflow-x: hidden;
+}
+
+#submitBtn:hover {
+  opacity: 0.8;
+}
